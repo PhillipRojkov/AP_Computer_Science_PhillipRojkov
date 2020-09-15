@@ -90,6 +90,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="505" y="121" key="FileChooserDialogImpl" timestamp="1600129288269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="121" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600129288269" />
     <state width="1340" height="265" key="GridCell.Tab.0.bottom" timestamp="1600120686167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -114,9 +118,10 @@
       <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="192" y="23" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1600115662647" />
-    <state x="77" y="23" key="new project wizard" timestamp="1600115588323">
-      <screen x="0" y="23" width="1366" height="745" />
+    <state x="108" y="0" key="new project wizard" timestamp="1600129291143">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="108" y="0" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600129291143" />
     <state x="77" y="23" key="new project wizard/0.23.1366.745@0.23.1366.745" timestamp="1600115588323" />
   </component>
 </project>

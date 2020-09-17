@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27686111-051f-442e-8831-f70eb217a60b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,10 +117,10 @@
       <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="192" y="23" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1600115662647" />
-    <state x="108" y="0" key="new project wizard" timestamp="1600129291143">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="77" y="23" key="new project wizard" timestamp="1600281037854">
+      <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="108" y="0" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600129291143" />
-    <state x="77" y="23" key="new project wizard/0.23.1366.745@0.23.1366.745" timestamp="1600115588323" />
+    <state x="77" y="23" key="new project wizard/0.23.1366.745@0.23.1366.745" timestamp="1600281037854" />
   </component>
 </project>

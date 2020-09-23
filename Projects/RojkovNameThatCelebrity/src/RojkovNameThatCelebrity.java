@@ -1,7 +1,7 @@
 /*
  * Name: Rojkov Phillip
  * Date: 2020-09-22
- * Assignment Name: NameThatCelebrity
+ * Assignment Name: (0923) Using the string and Scanner Objects
  * Description: Extrapolate the name of celebrities with a substring or section of their name
  */
 

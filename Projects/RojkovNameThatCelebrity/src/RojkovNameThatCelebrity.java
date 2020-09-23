@@ -2,7 +2,7 @@
  * Name: Rojkov Phillip
  * Date: 2020-09-22
  * Assignment Name: (0923) Using the string and Scanner Objects
- * Description: Extrapolate the name of celebrities with a substring or section of their name
+ * Description: Use the String methods to shorten a celebrity's name
  */
 
 public class RojkovNameThatCelebrity
@@ -25,6 +25,6 @@ public class RojkovNameThatCelebrity
     {
         String shortenedName = name.substring(2, name.length() - 3); //Get the portion of the name not including first 2 and last 3 letters
 
-        System.out.println(shortenedName); //Print shortened name
+        System.out.println(name + ">>>" + shortenedName); //Print shortened name
     }
 }

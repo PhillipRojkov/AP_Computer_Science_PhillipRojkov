@@ -16,9 +16,12 @@ public class RojkovNameThatCelebrity
         String s4 = "Justin Truedeau";
 
         shortenName(s1);
+        shortenName(s2);
+        shortenName(s3);
+        shortenName(s4);
     }
 
-    public static void shortenName (String name)
+    public static void shortenName (String name) //Shortens and prints the shortened input name
     {
         String shortenedName = name.substring(2, name.length() - 3); //Get the portion of the name not including first 2 and last 3 letters
 

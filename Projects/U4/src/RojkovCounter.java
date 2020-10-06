@@ -5,7 +5,7 @@
  * Description: Use nested for loops to count to 1000 in 11 lines without executing a loop > 10 times
  */
 
-public class Counter
+public class RojkovCounter
 {
     public static void main(String[] args)
     {
